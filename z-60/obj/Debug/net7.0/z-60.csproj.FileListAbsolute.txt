@@ -1,0 +1,15 @@
+C:\Users\CK\Desktop\dz_sem_8\z-60\bin\Debug\net7.0\z-60.exe
+C:\Users\CK\Desktop\dz_sem_8\z-60\bin\Debug\net7.0\z-60.deps.json
+C:\Users\CK\Desktop\dz_sem_8\z-60\bin\Debug\net7.0\z-60.runtimeconfig.json
+C:\Users\CK\Desktop\dz_sem_8\z-60\bin\Debug\net7.0\z-60.dll
+C:\Users\CK\Desktop\dz_sem_8\z-60\bin\Debug\net7.0\z-60.pdb
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.csproj.AssemblyReference.cache
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.AssemblyInfoInputs.cache
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.AssemblyInfo.cs
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.csproj.CoreCompileInputs.cache
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.dll
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\refint\z-60.dll
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.pdb
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\z-60.genruntimeconfig.cache
+C:\Users\CK\Desktop\dz_sem_8\z-60\obj\Debug\net7.0\ref\z-60.dll
